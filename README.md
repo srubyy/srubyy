@@ -8,7 +8,7 @@
 
 <p><h1>🐾 Hello there, I'm Sruti Baliga 🐾</h1></p>
 
-<p><h3>✨ Computer Engineering Student • Developer • Cat Lover ✨</h3></p>
+<p><h3>✨ Information Technology Student • Developer • Cat Lover ✨</h3></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&pause=1200&color=F5C2E7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+cute+things+with+code;Coffee+%2B+Cats+%2B+Coding+%3D+Happiness;Always+learning+something+new+"/>
 
