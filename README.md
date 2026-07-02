@@ -93,14 +93,15 @@
 <p><h1>📊 GitHub Stats</h1></p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srubyy&theme=tokyonight" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srubyy&theme=tokyonight" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srubyy&theme=tokyonight" width="90%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srubyy&theme=tokyonight" height="150em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srubyy&theme=tokyonight" height="160em" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srubyy&theme=tokyonight" height="160em" />
 </p>
 
 </div>
